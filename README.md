@@ -1,4 +1,4 @@
-🎵 MusicSwitch
+🎵 MUSIC SWITCH SOCIAL
 
 MusicSwitch is a social music-sharing web application that allows users to share music links across platforms while giving recipients the freedom to listen on their preferred music service. Built for modern music consumption, MusicSwitch removes platform lock-in and adds a social layer to music discovery.
 
